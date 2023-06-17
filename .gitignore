@@ -2,13 +2,5 @@
 **/*.terraform
 **/*.tfstate
 **/*.backup
-**/certs
-**/keystores
-**/zookeeper-keystores
-**/istio-1*
-**/*.zip
-.DS_Store
-istio-flag
 .vscode
 **/*.bak
-.idea/
